@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+agno-agent
+agno-models-openai
+agno-models-groq
+agno-tools-duckduckgo
+agno-tools-yfinance
