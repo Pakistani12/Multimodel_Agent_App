@@ -20,3 +20,16 @@ Run the application with:
 ```sh
 streamlit run app.py
 ```
+
+## Technologies Used
+- Python
+- Streamlit
+- Agno AI Agents
+- OpenAI API
+- Groq API
+- YFinance
+- DuckDuckGo Search
+
+## License
+MIT License
+
